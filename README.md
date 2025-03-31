@@ -8,5 +8,6 @@ Contributions welcome! When possible, link to the original creator's source to:
 
 Also feel free to contribute [STL files directly](/stl), but please give credit where its due.
 
-### K6ARK (tr)uSDX Audio Adapter 
-- https://oshpark.com/shared_projects/LwO6AYPS
+### K6ARK 
+- [(tr)uSDX Audio Adapter](https://oshpark.com/shared_projects/LwO6AYPS)
+- https://www.printables.com/@AdamKimmerly
