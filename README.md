@@ -9,7 +9,7 @@ Contributions welcome! When possible, link to the original creator's source to:
 - give them proper credit
 - ensure we're linking to the latest and greatest
 
-Also feel free to contribute [STL files directly](/stl), but please give credit where its due.
+Also feel free to contribute [STL files directly](/stl) if they're your own creations
 
 ### K6ARK 
 - [(tr)uSDX Audio Adapter](https://oshpark.com/shared_projects/LwO6AYPS)
